@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/GiYo-Mi02/GiYo-Mi02/assets/yourbanner" width="100%" alt="banner"/>
-</p>
 
 <h2 align="center">✨ Gio | Full Stack Dev • CS Student • Builder ✨</h2>
 
