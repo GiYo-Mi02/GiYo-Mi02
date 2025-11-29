@@ -17,7 +17,7 @@ or a cultural heritage kiosk built from scratch.
 
 ### 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,react,git,figma,supabase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,java,react,nextjs,typescript,git,figma,supabase" />
 </p>
 
 ---
@@ -46,19 +46,6 @@ or a cultural heritage kiosk built from scratch.
 
 📫 **Email:** ggonzales.k12254495@umak.edu.ph 
 🪪 **Portfolio:** /*Currently Work in Progress*/
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiYo-Mi02&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiYo-Mi02&layout=compact&hide_border=true" height="160"/>
-</p>
-
----
-
-### ✨ Fun Fact  
-I always sketch my ideas before coding — because good design leads to better solutions.
 
 ---
 
