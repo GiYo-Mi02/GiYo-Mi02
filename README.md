@@ -11,7 +11,7 @@
 Hi! I'm **Gio**, a Computer Science student passionate about  
 **Full Stack development, clean design, and meaningful user experiences.**  
 I love building tools that help people — whether it's an automation script  
-or a cultural heritage kiosk built from scratch.
+or a Working System for every event.
 
 ---
 
