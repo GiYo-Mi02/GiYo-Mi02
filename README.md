@@ -23,9 +23,8 @@ or a cultural heritage kiosk built from scratch.
 ---
 
 ### 🚀 Current Projects  
-- 🖼 **Cultural Heritage Kiosk System** (Makati)  
 - ⚙️ Automation tools for data entry + databases  
-- 🧪 Experiments with wearable tech & smart augmented glasses  
+- 🧪 Making a working system for the University
 
 ---
 
