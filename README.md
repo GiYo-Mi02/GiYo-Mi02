@@ -44,7 +44,7 @@ or a Working System for every event.
 </p>
 
 📫 **Email:** ggonzales.k12254495@umak.edu.ph 
-🪪 **Portfolio:** /*Currently Work in Progress*/
+🪪 **Portfolio:** https://potfolio-giyomi.vercel.app/
 
 ---
 
